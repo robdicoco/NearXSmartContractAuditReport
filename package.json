@@ -1,0 +1,16 @@
+{
+  "name": "auditreport",
+  "version": "1.0.0",
+  "description": "Security in Smart Contracts - Audit Report Review ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "slither": "slither . --solc-remaps"
+  },
+  "keywords": [
+    "audit",
+    "solidity"
+  ],
+  "author": "RobDC",
+  "license": "Apache-2.0"
+}

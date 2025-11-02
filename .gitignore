@@ -1,0 +1,121 @@
+# Foundry
+out/
+cache/
+broadcast/
+lib/forge-std/
+lib/openzeppelin-contracts/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+
+# Slither / Crytic
+crytic-export/
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - IntelliJ IDEA / PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# IDE - Vim
+*.swp
+*.swo
+*~
+.vim/
+
+# OS - macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# OS - Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# OS - Linux
+*~
+.directory
+.Trash-*
+
+# Build artifacts
+*.sol.js
+*.sol.ts
+artifacts/
+typechain/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+*.lcov
+.nyc_output/
+
+# Gas reports
+gas-report.txt
+
+# Hardhat (if used)
+.hardhat/
+
+# Coverage and cache
+.coverage/
+coverage.json
+
+# Python (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Documentation builds
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Compiled files
+*.solc.json
+
+# Test artifacts
+test-results/
+.pytest_cache/
+
