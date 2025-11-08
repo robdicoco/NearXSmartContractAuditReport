@@ -191,6 +191,15 @@ For questions regarding these audit reports or to request additional security an
 - **Classification:** Security Audit Report
 - **Confidentiality:** Client Confidential
 
+## Participants
+
+- **Roberto Pavusa Junior**  
+  [https://github.com/robdicoco](https://github.com/robdicoco)
+
+- **Vanessa Alves de Barros**  
+  [https://github.com/vanbarros76](https://github.com/vanbarros76)
+
+
 ## License
 
 See [LICENSE](./LICENSE) file for details.
