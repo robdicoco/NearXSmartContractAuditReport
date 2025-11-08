@@ -26,7 +26,7 @@ Each audit report includes:
 ## Audited Contracts
 
 ### 🔴 [AccountTakeoverChallenge.sol](./AccountTakeoverChallenge.sol.report.md)
-**Security Score: 3/10** ⭐⭐⭐⭐⭐⭐
+**Security Score: 3/10** ⭐⭐⭐☆☆☆☆☆☆☆
 
 A simple authentication contract demonstrating account takeover vulnerabilities.
 
@@ -40,7 +40,7 @@ A simple authentication contract demonstrating account takeover vulnerabilities.
 ---
 
 ### 🔴 [FiftyYearsChallenge.sol](./FiftyYearsChallenge.sol.report.md)
-**Security Score: 2/10** ⭐⭐⭐⭐⭐⭐
+**Security Score: 2/10** ⭐⭐⭐☆☆☆☆☆☆☆☆
 
 A time-locked contribution system with storage pointer vulnerabilities.
 
@@ -55,7 +55,7 @@ A time-locked contribution system with storage pointer vulnerabilities.
 ---
 
 ### 🔴 [PredictTheBlockHashChallenge.sol](./PredictTheBlockHashChallenge.sol.report.md)
-**Security Score: 2/10** ⭐⭐⭐⭐⭐⭐
+**Security Score: 2/10** ⭐⭐☆☆☆☆☆☆☆☆
 
 A block hash prediction game demonstrating design flaws with Ethereum's block hash limitations.
 
@@ -70,7 +70,7 @@ A block hash prediction game demonstrating design flaws with Ethereum's block ha
 ---
 
 ### 🔴 [TokenBankChallenge.sol](./TokenBankChallenge.sol.report.md)
-**Security Score: 2/10** ⭐⭐⭐⭐⭐⭐
+**Security Score: 2/10** ⭐⭐☆☆☆☆☆☆☆☆
 
 An ERC223 token bank demonstrating classic reentrancy vulnerabilities.
 
