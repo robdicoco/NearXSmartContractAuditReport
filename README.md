@@ -40,7 +40,7 @@ A simple authentication contract demonstrating account takeover vulnerabilities.
 ---
 
 ### 🔴 [FiftyYearsChallenge.sol](./FiftyYearsChallenge.sol.report.md)
-**Security Score: 2/10** ⭐⭐⭐☆☆☆☆☆☆☆☆
+**Security Score: 2/10** ⭐⭐☆☆☆☆☆☆☆☆
 
 A time-locked contribution system with storage pointer vulnerabilities.
 
