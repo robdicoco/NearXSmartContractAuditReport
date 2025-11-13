@@ -11,7 +11,7 @@
 
 ### Security Score
 
-⭐⭐⭐⭐⭐⭐ **3/10**
+⭐⭐⭐ **3/10**
 
 ### Critical Findings Summary
 
