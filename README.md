@@ -1,5 +1,7 @@
 # Smart Contract Security Audit Reports
 
+**Language / Idioma:** [English](#) | [Português](./README.pt.md)
+
 ## Project Overview
 
 This repository contains comprehensive security audit reports for multiple smart contract challenge scenarios. Each audit report provides detailed analysis, vulnerability assessments, and remediation recommendations following industry-standard security practices.

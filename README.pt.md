@@ -1,5 +1,7 @@
 # Relatórios de Auditoria de Segurança de Smart Contracts
 
+**Idioma / Language:** [Português](#) | [English](./README.md)
+
 ## Visão Geral do Projeto
 
 Este repositório contém relatórios abrangentes de auditoria de segurança para múltiplos cenários de desafios de smart contracts. Cada relatório de auditoria fornece análise detalhada, avaliações de vulnerabilidades e recomendações de correção seguindo práticas padrão de segurança da indústria.
