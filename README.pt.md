@@ -2,6 +2,10 @@
 
 **Idioma / Language:** [Português](#) | [English](./README.md)
 
+<p align="center">
+  <img src="doc/img/auditsimbol.png" alt="Audit Symbol" width="240"/>
+</p>
+
 ## Visão Geral do Projeto
 
 Este repositório contém relatórios abrangentes de auditoria de segurança para múltiplos cenários de desafios de smart contracts. Cada relatório de auditoria fornece análise detalhada, avaliações de vulnerabilidades e recomendações de correção seguindo práticas padrão de segurança da indústria.

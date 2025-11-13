@@ -2,6 +2,11 @@
 
 **Language / Idioma:** [English](#) | [Português](./README.pt.md)
 
+<p align="center">
+  <img src="doc/img/auditsimbol.png" alt="Audit Symbol" width="240"/>
+</p>
+
+
 ## Project Overview
 
 This repository contains comprehensive security audit reports for multiple smart contract challenge scenarios. Each audit report provides detailed analysis, vulnerability assessments, and remediation recommendations following industry-standard security practices.
